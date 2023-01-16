@@ -1,2 +1,2 @@
 import streamlit
-streatlit.title('New WEB')
+streamlit.title('New WEB')
