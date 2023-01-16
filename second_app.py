@@ -1,1 +1,2 @@
-import.snowflake_connector
+import streamlit
+streatlit.title('New WEB')
